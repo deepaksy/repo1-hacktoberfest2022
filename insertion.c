@@ -32,8 +32,13 @@ void printArray(int arr[], int n)
 /* Driver program to test insertion sort */
 int main() 
 { 
-    int arr[] = { 12, 11, 13, 5, 6 }; 
-    int n = sizeof(arr) / sizeof(arr[0]); 
+    int n;
+ cin>>n;
+    int arr[n];
+    for(i=0;i<n;i++)
+    {
+     cin>>a[i];
+    }
   
     insertionSort(arr, n); 
     printArray(arr, n); 
