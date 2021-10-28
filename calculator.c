@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//main code
 int main(){
     double first, second,operator;
     printf("Enter an operator (+, -, *,): ");
