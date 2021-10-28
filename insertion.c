@@ -1,5 +1,4 @@
 // preprocessors
-#include <math.h> 
 #include <stdio.h> 
   
 /* Function to sort an array using insertion sort*/
